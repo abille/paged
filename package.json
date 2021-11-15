@@ -1,0 +1,22 @@
+{
+  "name": "paged",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "live-server --host=localhost --port=9000 --open=src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abille/paged.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abille/paged/issues"
+  },
+  "homepage": "https://github.com/abille/paged#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
